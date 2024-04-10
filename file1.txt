@@ -1,3 +1,4 @@
 1.	Here is my very first entry when just creating the file.
 2.	Here is my second change, after first commit.
 3.	Here is my third change, after second commit.
+4.	Here is my fourth change, after third commit.
